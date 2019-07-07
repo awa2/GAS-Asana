@@ -1,0 +1,25 @@
+{
+  "name": "@ts-module-for-gas/gas-asana",
+  "version": "0.0.1",
+  "description": "TypeScript module for GAS with Asana",
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awa2/GAS-Asana.git"
+  },
+  "author": "awa2 <takanori.awatsu+npm@gmail.com> (Takanori Awatsu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awa2/GAS-Asana/issues"
+  },
+  "homepage": "https://github.com/awa2/GAS-Asana#readme",
+  "dependencies": {
+    "@types/google-apps-script": "0.0.54"
+  }
+}
